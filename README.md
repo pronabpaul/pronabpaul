@@ -6,11 +6,11 @@ B.Sc. in Information and Communication Engineering
 University of Rajshahi, Bangladesh
 
 
-I am a researcher working at the intersection of **computer vision**, **medical image analysis**, and **representation learning**. My research aims to develop **interpretable**, **robust**, and **clinically reliable** AI systems by studying how visual representations are learned, transferred, and fail under challenging real-world conditions.
+I am a researcher working at the intersection of **computer vision**, **medical image analysis**, and **representation learning**. My research focuses on understanding how AI models represent medical images, why they succeed or fail under domain shift, and how they can be made more **robust**, **trustworthy**, and **clinically reliable**.
 
-My work spans **medical image segmentation**, **foundation models**, **self-supervised learning**, **explainable AI**, **feature representation analysis**, and **privacy-preserving healthcare AI**. Alongside developing new algorithms, I investigate the mathematical structure of learned representations using techniques from **linear algebra**, **spectral analysis**, **wavelets**, and **optimization**.
+My research combines empirical experimentation with mathematical analysis to investigate **medical image segmentation**, **foundation models**, and **multimodal medical imaging**. I study representation dynamics using concepts from **linear algebra**, **spectral analysis**, **wavelets**, and **optimization**.
 
-I have published peer-reviewed research in Springer conference proceedings and international engineering journals, with ongoing work focused on multimodal medical image analysis.
+I have published peer-reviewed research in Springer conference proceedings and international engineering journals, with ongoing work on representation learning, multimodal medical imaging, and trustworthy AI for healthcare.
 
 
 ## Research Interests
@@ -19,131 +19,87 @@ I have published peer-reviewed research in Springer conference proceedings and i
 - Computer Vision
 - Representation Learning
 - Foundation Models for Medical Imaging
-- Explainable Artificial Intelligence (XAI)
-- Self-Supervised Learning
-- Test-Time Adaptation
-- Robust Feature Descriptors
-- Federated Learning
+- Trustworthy AI
 - Medical Image Segmentation
-- Spectral Representation Analysis
-- Linear Algebra for Vision
+- Multimodal Medical Imaging
 
 ## Technical Skills
 
 ### Programming
 
-`Python` `C++`
+-`Python`,  `C++`
 
-### Deep Learning
+### AI Frameworks
 
-`PyTorch`
-`TensorFlow`
-`MONAI`
-`OpenCV`
-`scikit-learn`
+-`PyTorch`,  `TensorFlow`,  `MONAI`
+
+### Computer Vision & Machine Learning
+
+-`OpenCV`,  `scikit-learn`
 
 ### Medical Imaging
 
-MRI • CT • PET • OCT • Histopathology
+- MRI, CT, PET, X-ray, Fundus Imaging, OCT, Histopathology
 
 ### Research Areas
 
-Deep Learning
-
-Medical Image Analysis
-
-Computer Vision
-
-Representation Learning
-
-Self-Supervised Learning
-
-Vision Transformers
-
-Foundation Models
-
-Image Segmentation
-
-Explainable AI
-
-Spectral Analysis
-
-Wavelet Analysis
-
-Optimization
-
-Linear Algebra
-
-Scientific Computing
-
-
-# Featured Projects
-
-## Medical AI Research
-
-| Repository | Description |
-|------------|-------------|
-| **SSL_Collapse_ACR_Analysis** | Analysis of representation collapse in self-supervised learning using Average Cosine Rank (ACR). |
-| **modality-collapse-framework** | Framework for analysing representation dynamics across multimodal medical imaging systems. |
-| **tta-failure-analysis** | Failure analysis of test-time adaptation methods for robust medical image understanding. |
-| **medimg-wavelet-spectral-analysis** | Wavelet-based analysis of frequency representations in medical imaging. |
-| **medimg-spectral-analysis** | Fourier and spectral analysis for understanding texture bias and shortcut learning. |
-| **Q1_Effective_Rank_Predicts_Synthetic_Corruption** | Companion code for our Q1 journal publication on effective rank and robustness prediction. |
-
-
-## Educational Projects
-
-| Repository | Description |
-|------------|-------------|
-| **Linear-Algebra** | Mathematical foundations of computer vision implemented from first principles. |
-| **pronabpaul.github.io** | Source code of my academic website and research portfolio. |
-
----
-
-# Current Research
-
-My current research focuses on
-
+- Medical Image Analysis
+- Computer Vision
+- Representation Learning
 - Foundation Models for Medical Imaging
-- Representation Geometry
-- Cross-Modal Learning
-- Medical Image Segmentation
-- Vision Transformers
-- Explainable AI
-- Robust Medical Image Understanding
+- Trustworthy AI
+- Intelligent Healthcare Systems
 
----
+## Featured Projects
 
-# Publications
+### Representation Learning
 
-My publications are available on
+| Repository | Description |
+|------------|-------------|
+| **SSL_Collapse_ACR_Analysis** | Investigating whether representation geometry predicts transfer performance in self-supervised medical foundation models under domain shift, and evaluating Adaptive Collapse Recovery (ACR) as a strategy for mitigating representation collapse. |
+| **modality-collapse-framework** | A reproducible framework for measuring modality collapse and representation dynamics in multimodal medical imaging using layer-wise representation analysis and complementary geometric similarity measures. |
+| **Q1_Effective_Rank_Predicts_Synthetic_Corruption** | Investigating whether effective rank predicts performance degradation under synthetic image corruptions as part of a research series on representation geometry and domain shift in medical AI. |
 
-- Google Scholar
-- ORCID
-- ResearchGate
+### Robust Medical AI
 
----
+| Repository | Description |
+|------------|-------------|
+| **tta-failure-analysis** | An experimental study investigating when test-time augmentation (TTA) improves or degrades medical image classification, focusing on prediction stability, calibration, and transformation-induced failure modes. |
+| **medimg-wavelet-spectral-analysis** | Investigating structural and frequency-domain characteristics of medical image modalities through wavelet packet decomposition, spectral analysis, and fractal complexity measures. |
+| **medimg-spectral-analysis** | Investigating modality-specific frequency and texture characteristics of medical images using Fourier spectral analysis, Local Binary Patterns (LBP), and Gray-Level Co-occurrence Matrix (GLCM) descriptors to support modality-aware representation learning. |
+
+### Interactive Medical AI
+
+| Repository | Description |
+|------------|-------------|
+| **neuroimaging-dashboard** | An interactive research platform for medical image visualization and segmentation. It currently includes a lightweight 8-bit demonstration of the segmentation pipeline, with ongoing research focused on developing fast, robust, and computationally efficient segmentation algorithms that minimize annotation effort while remaining effective under challenging imaging conditions. |
+
+### Mathematical Foundations
+
+| Repository | Description |
+|------------|-------------|
+| **Linear-Algebra** | A comprehensive, research-oriented project that builds the mathematical foundations of medical AI. Through intuitive explanations, visualizations, and hands-on implementations, it explores how medical images are represented, transformed, processed, and learned by modern AI models from pixels and vectors to high-dimensional feature representations. |
+
+
+
+## Current Research
+
+I am interested in understanding **how medical AI models represent medical images**, **why they succeed or fail under real-world conditions**, and **how they can be made more robust, interpretable, and clinically reliable**. My current research explores representation learning, multimodal medical imaging, foundation models, explainable AI, and trustworthy computer vision for healthcare.
+
+
 
 # Connect with Me
 
-🌐 Website  
-https://pronabpaul.github.io
+ **Website:** [pronabpaul.github.io](https://pronabpaul.github.io)
 
-📚 Google Scholar  
-https://scholar.google.com/citations?user=voZ0xlEAAAAJ
+ **Google Scholar:** [Google Scholar Profile](https://scholar.google.com/citations?user=voZ0xlEAAAAJ)
 
-🆔 ORCID  
-https://orcid.org/0009-0008-8454-0528
+ **ORCID:** [0009-0008-8454-0528](https://orcid.org/0009-0008-8454-0528)
 
-💼 LinkedIn  
-https://www.linkedin.com/in/pronab-paul-2ab6b2260/
+ **LinkedIn:** [Pronab Kumar Paul](https://www.linkedin.com/in/pronab-paul-2ab6b2260/)
 
-📖 ResearchGate  
-https://www.researchgate.net/profile/Pronab-Paul-2
+ **ResearchGate:** [ResearchGate Profile](https://www.researchgate.net/profile/Pronab-Paul-2)
 
-📧 Email
+ **Email:** [pronabpual77@gmail.com](mailto:pronabpual77@gmail.com)
 
-pronabpual77@gmail.com
-
-
-> *I am always interested in research collaborations, graduate opportunities (M.Sc./Ph.D.), and open-source projects in Computer Vision and Medical AI.*
+> *I welcome opportunities for graduate research (M.Sc./Ph.D.), academic collaboration, and open-source research in **computer vision**, **medical image analysis**, **representation learning**, and **trustworthy AI**.*
